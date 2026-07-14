@@ -1,0 +1,12 @@
+## Requirements
+
+- Ubuntu 20.04 / 22.04
+- ROS / ROS 2
+- TurtleBot3 packages
+- Gazebo
+- RViz
+- SLAM package (Cartographer, Gmapping, or SLAM Toolbox)
+- Navigation stack / Nav2
+- Python 3
+- NumPy
+- OpenCV (if vision-based parking is used)
